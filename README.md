@@ -1,4 +1,4 @@
 # tekken_TRS_pygame
 
 
-[Play it Live!!] (https://replit.com/@VividhPandey/tekkenGoD#main.py)
+[Play it here!!](https://replit.com/@VividhPandey/tekkenGoD#main.py)
