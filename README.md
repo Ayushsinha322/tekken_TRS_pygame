@@ -2,6 +2,7 @@
 
 
 [Play it here!!](https://replit.com/@VividhPandey/tekkenGoD#main.py)
+<a href="https://replit.com/@VividhPandey/tekkenGoD#main.py" alt="PlayItHere" target="#">Play it Here!!</a>
 
 
 
