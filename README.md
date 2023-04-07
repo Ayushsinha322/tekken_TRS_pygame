@@ -9,7 +9,8 @@
 
 <div>
 
-<a href="https://github.com/VividhPandey003" alt="VividhPandey003" >
-<a href="https://github.com/Ayushsinha322" alt="Ayushsinha322" >
+
+  <a href="https://github.com/VividhPandey003" alt="VividhPandey003" >VividhPandey003</a>
+  <a href="https://github.com/Ayushsinha322" alt="Ayushsinha322" > AyushSinha322 </a>
 
 </div>
