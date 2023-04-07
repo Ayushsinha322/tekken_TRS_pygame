@@ -2,7 +2,7 @@
 
 
 
-<a href="https://replit.com/@VividhPandey/tekkenGoD#main.py" alt="PlayItHere" target="_#">Play it Here!!</a>
+<a href="https://replit.com/@VividhPandey/tekkenGoD#main.py" alt="PlayItHere" target="_blank">Play it Here!!</a>
 
 
 
